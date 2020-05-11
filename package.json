@@ -22,8 +22,8 @@
     "@angular/router": "^6.1.0",
     "core-js": "^2.5.4",
     "rxjs": "^6.3.3",
-    "survey-angular": "^1.7.4",
-    "survey-knockout": "^1.7.4",
+    "survey-angular": "^1.7.5",
+    "survey-knockout": "^1.7.5",
     "typescript": "^2.7.2",
     "zone.js": "~0.8.26"
   },
